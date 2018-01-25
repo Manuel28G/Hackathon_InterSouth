@@ -1,6 +1,23 @@
 
 # Hackathon_InterSouth_Enero [Sudoku]
 
+|   Participante          |Fecha Culminación      |Hora                 |Commit                   |
+|-------------------------|-----------------------|---------------------|-------------------------|
+|Alba Guerrero            |                       |                     |                         |
+|Antonio García           |                       |                     |                         |
+|Johans Cuéllar           |                       |                     |                         |
+|Katherine García         |                       |                     |                         |
+|Manuel Goncalves         |                       |                     |                         |
+|Michael Campos           |                       |                     |                         |
+|Rafael Perdomo           |                       |                     |                         |
+|Rafael Sendrea           |                       |                     |                         |
+|Sergio Mendoza           |                       |                     |                         |
+|Victor Ruiz              |                       |                     |                         |
+|Wilber Frautes           |                       |                     |                         |
+|William Martinez         |                       |                     |                         |
+|-------------------------|-----------------------|---------------------|-------------------------|
+
+
 ## Bases del concursos
 
 ### Fechas importantes
@@ -34,9 +51,12 @@
 
 |   Criterio              |Valor máximo                   |Valor mínimo                 |Evaluación                   |
 |-------------------------|-------------------------------|-----------------------------|-----------------------------|
-|Tiempo de entrega|13     |0           |Decremental                  |
+|Tiempo de entrega|13     |0                               |Decremental                  |
 |Tiempo de ejecución|26   |0            |Decremental                  |
-|Dificultad de resolución |7|0|Fijo     
+|Dificultad de resolución |7|0|Fijo|     
+|Originalidad |5|0|Único|
+|-------------------------|-------------------------------|-----------------------------|-----------------------------|
+
 
 
 **Total : 39 puntos**
