@@ -46,10 +46,11 @@
 **Objetivo**
 
 Crear un programa capaz de resolver un sudoku de manera automática en la menor cantidad de tiempo posible y
-con todas las dificultades posibles.  El sistema deberá recibir la matriz del sudoku mediante un archivo de texto (.txt), deberá procesar
-dicho archivo y generar un documento de texto (.txt) resultante con el sudoku resuelto.   El nombre del archivo resultante deberá tener el
-siguiente formato
+con todas las dificultades posibles.  El sistema deberá recibir una matriz (9x9) del sudoku mediante un archivo de texto (.txt), deberá procesar
+dicho archivo y generar un documento de texto (.txt) resultante con el sudoku resuelto en una matriz igual (9x9).   El nombre del archivo resultante deberá tener el siguiente formato
 
 > **< Nombre >_< Apellido > _ HTIS _< mes >.txt**
+
+El archivo de entrada lo podran encontrar en la base del repositorio en la carpeta  [Hackathon_InterSouth/Enero/Hackathon_InterSouth_Enero_sudoku.txt](https://github.com/Manuel28G/Hackathon_InterSouth/blob/master/Enero/Hackatoon_InterSouth_Enero%5BSudoku%5D.txt)
 
 [Pagina web de apoyo](http://www.sudoku-online.org/)
