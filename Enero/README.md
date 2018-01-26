@@ -35,6 +35,7 @@
   - La entrega cumple con el objetivo del problema.
   - La resolución debe ser subida al repositorio correspondiente del manejador de versiones (Github).
   - La fecha tomada como entregable será del último commit publicado en el repositorio.
+  - La resolución del problema debe realizarse en el lenguaje de programación seleccionado para la entrega.
 
 >**Nota**: los proyectos solo serán evaluados si se cumplieron con los criterios anteriores
 
@@ -52,7 +53,7 @@
 |-------------------------|-------------------------------|-----------------------------|-----------------------------|
 |Tiempo de entrega|13     |0                               |Decremental                  |
 |Tiempo de ejecución|26   |0            |Decremental                  |
-|Dificultad de resolución |7|0|Fijo|     
+|Dificultad de resolución |7|0|Fijo|
 |Originalidad |5|0|Único|
 
 
@@ -68,6 +69,8 @@ con todas las dificultades posibles.  El sistema deberá recibir una matriz (9x9
 dicho archivo y generar un documento de texto (.txt) resultante con el sudoku resuelto en una matriz igual (9x9).   El nombre del archivo resultante deberá tener el siguiente formato
 
 > **< Nombre >_< Apellido > _ HTIS _< mes >.txt**
+
+Lenguaje a usar:  [Go!](https://golang.org/)
 
 El archivo de entrada lo podran encontrar en la base del repositorio en la carpeta  [Hackathon_InterSouth/Enero/Hackathon_InterSouth_Enero_sudoku.txt](https://github.com/Manuel28G/Hackathon_InterSouth/blob/master/Enero/Hackatoon_InterSouth_Enero%5BSudoku%5D.txt)
 
