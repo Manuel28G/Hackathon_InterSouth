@@ -51,8 +51,8 @@
 
 |   Criterio              |Valor máximo                   |Valor mínimo                 |Evaluación                   |
 |-------------------------|-------------------------------|-----------------------------|-----------------------------|
-|Tiempo de entrega|13     |0                               |Decremental                  |
-|Tiempo de ejecución|26   |0            |Decremental                  |
+|Tiempo de entrega|13     |1                               |Decremental                  |
+|Tiempo de ejecución|26   |2            |Decremental                  |
 |Dificultad de resolución |7|0|Fijo|
 |Originalidad |5|0|Único|
 
