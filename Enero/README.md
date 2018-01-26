@@ -27,7 +27,7 @@
     Bs 50.000
 
 ### Premio
-	Bs 750.000
+	Bs 1.200.000
 
 ## Criterios de entrega
   - Entrega funcional
