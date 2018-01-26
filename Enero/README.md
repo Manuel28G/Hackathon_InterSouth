@@ -37,7 +37,7 @@
   - La fecha tomada como entregable será del último commit publicado en el repositorio.
   - La resolución del problema debe realizarse en el lenguaje de programación seleccionado para la entrega.
 
->**Nota**: los proyectos solo serán evaluados si se cumplieron con los criterios anteriores
+>**Nota**: los proyectos solo serán evaluados si cumplieron con los criterios anteriores
 
 **Formas de evaluación**
 
