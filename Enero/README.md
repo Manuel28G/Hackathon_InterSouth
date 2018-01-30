@@ -5,7 +5,7 @@
 |-------------------------|-----------------------|---------------------|-------------------------|
 |Alba Guerrero            |                       |                     |                         |
 |Antonio García           |                       |                     |                         |
-|Johans Cuéllar           |                       |                     |                         |
+|Julio Gomez              |                       |                     |                         |
 |Katherine García         |                       |                     |                         |
 |Manuel Goncalves         |                       |                     |                         |
 |Michael Campos           |                       |                     |                         |
