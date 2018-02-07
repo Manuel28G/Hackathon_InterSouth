@@ -52,14 +52,14 @@
 
 |   Criterio              |Valor máximo                   |Valor mínimo                 |Evaluación                   |
 |-------------------------|-------------------------------|-----------------------------|-----------------------------|
-|Tiempo de entrega|13     |1                               |Decremental                  |
-|Tiempo de ejecución|26   |2            |Decremental                  |
+|Tiempo de entrega|12     |1                               |Decremental                  |
+|Tiempo de ejecución|24   |2            |Decremental                  |
 |Dificultad de resolución |7|0|Fijo|
 |Originalidad |5|0|Único|
 
 
 
-**Total : 39 puntos**
+**Total : 48 puntos**
 
 ## HackatonInterSouth_Enero
 
@@ -79,7 +79,7 @@ El archivo de entrada lo podran encontrar en la base del repositorio en la carpe
 Para realizar un programa en Go! no es necesario de un editor en específico, puedes usar el de tu conveniencia y comodidad, aqui una pequeña lista de algunos que puedes usar:
 
   - [Atom + Plugin](https://rominirani.com/setup-go-development-environment-with-atom-editor-a87a12366fcf)
-  - [SublimeText](http://alexeyza.com/blog/2016/09/28/setting-up-a-go-development-environment-with-sublimetext/)
+  - [SublimeText + Plugin](http://alexeyza.com/blog/2016/09/28/setting-up-a-go-development-environment-with-sublimetext/)
   - [Notepad++](https://notepad-plus-plus.org/)
   - [Jetbrain](https://www.jetbrains.com/go/)
   - NotePad
