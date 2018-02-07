@@ -36,6 +36,7 @@
   - La resolución debe ser subida al repositorio correspondiente del manejador de versiones (Github).
   - La fecha tomada como entregable será del último commit publicado en el repositorio.
   - La resolución del problema debe realizarse en el lenguaje de programación seleccionado para la entrega.
+  - Se deberá imprimir el tiempo de compilación del código en milisegundos (ms) de manera demostrable para optar por los puntos de tiempo de ejecución
 
 >**Nota**: los proyectos solo serán evaluados si cumplieron con los criterios anteriores
 
@@ -74,6 +75,20 @@ Lenguaje a usar:  [Go!](https://golang.org/)
 
 El archivo de entrada lo podran encontrar en la base del repositorio en la carpeta  [Hackathon_InterSouth/Enero/Hackathon_InterSouth_Enero_sudoku.txt](https://github.com/Manuel28G/Hackathon_InterSouth/blob/master/Enero/Hackatoon_InterSouth_Enero%5BSudoku%5D.txt)
 
+¿Que editor usar?
+Para realizar un programa en Go! no es necesario de un editor en específico, puedes usar el de tu conveniencia y comodidad, aqui una pequeña lista de algunos que puedes usar:
+
+  -[Atom + Plugin](https://rominirani.com/setup-go-development-environment-with-atom-editor-a87a12366fcf)
+  -[SublimeText](http://alexeyza.com/blog/2016/09/28/setting-up-a-go-development-environment-with-sublimetext/)
+  -[Notepad++](https://notepad-plus-plus.org/)
+  -[Jetbrain](https://www.jetbrains.com/go/)
+  -NotePad
+
+
+https://www.jetbrains.com/go/
+
+
 [Pagina web de apoyo](http://www.sudoku-online.org/)
 
 [¿Cómo resolver el Sudoku?](https://www.youtube.com/watch?v=OtKxtvMUahA)
+
