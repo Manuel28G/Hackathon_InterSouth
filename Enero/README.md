@@ -75,3 +75,5 @@ Lenguaje a usar:  [Go!](https://golang.org/)
 El archivo de entrada lo podran encontrar en la base del repositorio en la carpeta  [Hackathon_InterSouth/Enero/Hackathon_InterSouth_Enero_sudoku.txt](https://github.com/Manuel28G/Hackathon_InterSouth/blob/master/Enero/Hackatoon_InterSouth_Enero%5BSudoku%5D.txt)
 
 [Pagina web de apoyo](http://www.sudoku-online.org/)
+
+[¿Cómo resolver el Sudoku?](https://www.youtube.com/watch?v=OtKxtvMUahA)
