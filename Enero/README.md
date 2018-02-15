@@ -17,6 +17,7 @@
 |William Martinez         |                       |                     |                         |
 
 
+
 ## Bases del concursos
 
 ### Fechas importantes
@@ -25,6 +26,12 @@
 
 ### Inscripción
     Bs 50.000
+    
+## Cuenta a transferir la inscripción:
+	Banco: Mercantil
+	Nº:0105-0618-290618-54236-1
+	Titular: Rafael Sendrea
+	Cédula:V-21.014.507
 
 ### Premio
 	Bs 1.100.000
