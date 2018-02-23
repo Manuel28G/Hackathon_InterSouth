@@ -6,6 +6,8 @@ import (
 	"strings"
 	"time"
 	"strconv"
+	"os"
+	"log"
 )
 
 var matriz = [][] string{
@@ -20,13 +22,15 @@ var matriz = [][] string{
 []string{"_", "_", "_", "_", "_", "_","_", "_", "_"},}
 
 var containCero = true
+var fileName = "Manuel_Goncalves_HTIS_Enero"
+var fileExt = ".txt"
 
 func main(){
 	init := getTimeInNanoSecond()
 	readFile()
 	end := getTimeInNanoSecond()
 	fmt.Println("Finalizó en (nanoS):")
-	fmt.Println(init-end)
+	fmt.Println(end-init)
 
 }
 
@@ -169,7 +173,12 @@ func findSquare(_num int,_square int) bool{
 		}
 
 		//Vemos si es la única opción en esa casilla
-	/*	if( onlyOneRow(initRow,finalRow,tmpCol) ==1 ){
+		/*if( onlyOneRow(initRow,finalRow,tmpCol) ==1 ){
+
+			matriz[tmpRow][tmpCol] = strconv.Itoa(_num)
+			return true
+		}
+		if( onlyOneCol(initCol,finalCol,tmpRow) ==1 ){
 
 			matriz[tmpRow][tmpCol] = strconv.Itoa(_num)
 			return true
@@ -186,9 +195,31 @@ func findSquare(_num int,_square int) bool{
 		}
 
 	}
-	matriz[rowFind][colFind] = strconv.Itoa(_num)
-	return true
 
+	if rowFind != -1 && colFind != -1{
+		matriz[rowFind][colFind] = strconv.Itoa(_num)
+		return true
+	}
+
+	return false
+
+}
+
+func writeFileMatrix(_fileName string, _data [][]string){
+	var tmp = ""
+	for i:= 0 ;i<9;i++{
+		tmp += "|" + strings.Join(_data[i]," , ")+"|\n\r"
+	}
+	writeFile(_fileName,tmp)
+}
+
+func writeFile(_fileName string,_data string){
+	file, err := os.Create(_fileName+fileExt)
+	if err != nil{
+		log.Fatal("Error al intentar crear el archivo: "+err.Error())
+	}
+	defer file.Close()
+	fmt.Fprintln(file,_data)
 }
 
 func findRow(_number int,_row int) bool{
@@ -220,9 +251,11 @@ func resolve(){
 				findSquare(number,square)
 			}
 		}
+/*
+		fmt.Println(matriz)*/
+
 	}
 
-	fmt.Println("Programa terminado")
-	fmt.Println(matriz)
+	writeFileMatrix(fileName,matriz)
 
 }
