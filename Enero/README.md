@@ -7,13 +7,13 @@
 |Antonio García           |                       |                     |                         | | |
 |Julio Gomez              |                       |                     |                         | | |
 |Katherine García         |                       |                     |                         | | |
-|Manuel Goncalves         |       24              |    10                 |     0                    |0| |
+|Manuel Goncalves         |       24              |    10                 |     0                    |0|34|
 |Michael Campos           |                       |                     |                         | | |
-|Rafael Perdomo           |    22                 |      12               |    0                    |?| |
-|Rafael Sendrea           |     18                |       9             |      0                  |?| |
+|Rafael Perdomo           |    22                 |      12               |    0                    |?|34|
+|Rafael Sendrea           |     18                |       9             |      0                  |?|27|
 |Sergio Mendoza           |                       |                     |                         | | |
 |Victor Ruiz              |                       |                     |                         | | |
-|William Martinez           |      20               |         11           |     7                   |?| |
+|William Martinez           |      20               |         11           |     7                   |?|36|
 |Wilber Frautes         |                       |                     |                         | | |
 
 
