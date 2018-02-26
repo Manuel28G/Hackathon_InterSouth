@@ -1,20 +1,20 @@
 
 # Hackathon_InterSouth_Enero [Sudoku]
 
-|   Participante          |Fecha Culminación      |Hora                 |Commit                   |
-|-------------------------|-----------------------|---------------------|-------------------------|
-|Alba Guerrero            |                       |                     |                         |
-|Antonio García           |                       |                     |                         |
-|Julio Gomez              |                       |                     |                         |
-|Katherine García         |                       |                     |                         |
-|Manuel Goncalves         |                       |                     |                         |
-|Michael Campos           |                       |                     |                         |
-|Rafael Perdomo           |                       |                     |                         |
-|Rafael Sendrea           |                       |                     |                         |
-|Sergio Mendoza           |                       |                     |                         |
-|Victor Ruiz              |                       |                     |                         |
-|Wilber Frautes           |                       |                     |                         |
-|William Martinez         |                       |                     |                         |
+|   Participante          |Tiempo de ejecución     |Tiempo de entrega                |Originalidad            |Dificultad|Total|
+|-------------------------|-----------------------|---------------------|-------------------------|-------------||
+|Alba Guerrero            |                       |                     |                         |||
+|Antonio García           |                       |                     |                         |||
+|Julio Gomez              |                       |                     |                         |||
+|Katherine García         |                       |                     |                         |||
+|Manuel Goncalves         |       24              |    10                 |     0                    |0||
+|Michael Campos           |                       |                     |                         |||
+|Rafael Perdomo           |    22                 |      12               |    0                    |?||
+|Rafael Sendrea           |     18                |       9             |      0                  |?||
+|Sergio Mendoza           |                       |                     |                         |||
+|Victor Ruiz              |                       |                     |                         |||
+|William Martinez           |      20               |         11           |     7                   |?||
+|Wilber Frautes         |                       |                     |                         |||
 
 
 
