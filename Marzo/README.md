@@ -1,4 +1,4 @@
-#Hackathon Marzo
+# Hackathon Marzo
 Proyecto basado en : Base de datos
 Tecnología: SQL server
 
