@@ -6,7 +6,7 @@ El proyecto se realizará en equipo:
 
   >Costo de la inscripción 1$
 
-|Equipo |Integrante Nº1|Integrante Nº1|
+|Equipo |Integrante Nº1|Integrante Nº2|
 |-------|--------------|--------------|
 |1|William|Katherine|
 |2|Rafael P| Julio|
