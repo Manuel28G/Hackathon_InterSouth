@@ -13,7 +13,7 @@ El proyecto se realizará en equipo:
 |3|Victor|Manuel|
 |4|Wilber|Sendrea|
 |5|Alba|Sergio|
-|6|Anthonio|Michael|
+|6|Anthonio|Michel|
 |7|Eunice|Luis Felipe|
 
 
