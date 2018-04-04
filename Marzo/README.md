@@ -14,7 +14,7 @@ El proyecto se realizará en equipo:
 |4|Wilber|Sendrea|
 |5|Alba|Sergio|
 |6|Anthonio|Michel|
-|7|Eunice|Luis Felipe|
+|7|Eunice|Joselyn|Carlos|
 
 
 Posibles retos para los que no entreguen
