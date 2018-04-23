@@ -26,7 +26,9 @@ Los grupos fueron conformados por decisión de los mismos participantes, dando p
  
  **Premio**
  *28$* los cuales serán repartidos de la siguiente forma:
- 
+> **1er Lugar**: 21$
+
+> **2do Lugar**: 7$
 
 ## Sprint Nº1
 > - Fecha de inicio: 23/04/18
