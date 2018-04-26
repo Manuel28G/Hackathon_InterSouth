@@ -39,8 +39,15 @@ Plantear y definir una idea definiendo el alcance entre el equipo correspondient
 
 ### Entregable
 
-- Ideas a desarrollar bien definida.
-- Maquetación de la idea para identificar el alcance.
+- Documento
+ > Documento con ideas a desarrollar bien definida (Objetivos y alcances).
+- Maqueta
+> Maquetación de la idea para identificar el alcance de la aplicación.
+
+
+#### Herramientes propuestas
+- [Marvel](https://marvelapp.com/sketch/) **Recomendado**
+- [Balsamiq](https://balsamiq.com/products/)
 
 ### Condiciones
 <Por definir>
