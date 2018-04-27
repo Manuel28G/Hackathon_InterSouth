@@ -60,7 +60,7 @@ Plantear y definir una idea definiendo el alcance entre el equipo correspondient
 > - Fecha de fin: ??/??/??
 
 ### Objetivo
-¿?
+Trabajar en el frontend para dar como resultado todo el material que conforma la parte visual de la aplicación
 ### Entregable
 ¿?
 ### Condiciones
@@ -73,7 +73,7 @@ Plantear y definir una idea definiendo el alcance entre el equipo correspondient
 > - Fecha de fin: ??/??/??
 
 ### Objetivo
-¿?
+Trabajar en el backend para dar como resultado la lógica y funcionalidades que la aplicación pueda tener
 ### Entregable
 ¿?
 ### Condiciones
@@ -86,7 +86,7 @@ Plantear y definir una idea definiendo el alcance entre el equipo correspondient
 > - Fecha de fin: ??/??/??
 
 ### Objetivo
-¿?
+Integrar el fontend y backend para dar como resultado un proyecto funcional.
 ### Entregable
 ¿?
 ### Condiciones
